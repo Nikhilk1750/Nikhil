@@ -1,2 +1,0 @@
-name : nikil
-department : ece
